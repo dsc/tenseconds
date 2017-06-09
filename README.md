@@ -1,11 +1,11 @@
 
-#10 Seconds on a Billboard
+# 10 Seconds on a Billboard
 
-##Concept: 
+## Concept
 
 A billboard that displays content, and an app that allows users to vote on what content is displayed on that billboard (imagine it being in Times Square)
 
-##Teams:
+## Teams
 
 **Team Rules/lessTechBackground:**
 
